@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity_Changes</string>
+    <string name="Btn_Sig_Act2">Go to Act 2</string>
+    <string name="tv1">Main Activity</string>
+    <string name="Btn_Sig_Act1">Back to Start</string>
+    <string name="tv2">Second Activity</string>
+    <string name="Btn_Sig_Act3">Go to Act 3</string>
+    <string name="tv3">Third Activity</string>
+</resources>
